@@ -1,2 +1,2 @@
 # VIRIONLAB
-This is the VIROLAB respository. This repository belongs to the Virology laboratory, Instituto de Bioquimica y Microbiologia (BIMI), Universidad Austral de Chile (UACh).
+This is the official repository of VIRIONLAB, the Virology Laboratory led by Carlos Loncoman at the Instituto de Bioquímica y Microbiología (BIMI), Universidad Austral de Chile (UACh).
